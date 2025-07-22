@@ -37,7 +37,10 @@ Each file is modular and focused on a specific concept in password security.
 | **Brute Force** | Trying every possible password until the correct one is found. |
 
 ---
+ Author
 
+**Chandru Ganesh**  
+📫 Email: chandruganesh00@gmail.com
 ## ⚠️ Disclaimer
 
 This project is created **only for educational purposes**. Unauthorized use of password cracking techniques on live systems is illegal and unethical.
